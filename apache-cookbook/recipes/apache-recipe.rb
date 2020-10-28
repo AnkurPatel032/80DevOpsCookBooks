@@ -10,7 +10,7 @@ package 'httpd' do
 end
 
 file '/var/www/html/index.html' do
-    content '<h1>Hello Megha!!Hope U r enjoying Frinedship with him</h1>'
+    content '<h1>Hello Ankur!!Hope U r enjoying Friendship with him</h1>'
     action :create
 end
 
